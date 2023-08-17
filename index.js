@@ -91,7 +91,7 @@ ${usage}
 ${contribution}
 
 # Questions
-If you have any questions please contact me via my ${contributionTwo} or email me at ${contributionThree}.
+If you have any questions please contact me via my profile ${contributionTwo} or email me at ${contributionThree}.
 
 # Tests
 ${tests}
